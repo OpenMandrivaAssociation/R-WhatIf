@@ -7,7 +7,7 @@ Release:          1
 Summary:          Software for Evaluating Counterfactuals
 Group:            Sciences/Mathematics
 License:          GPLv3
-URL:              http://cran.r-project.org/web/packages/WhatIf/index.html
+URL:              https://cran.r-project.org/web/packages/WhatIf/index.html
 Source0:          http://cran.r-project.org/src/contrib/WhatIf_1.5-5.tar.gz
 BuildRequires:    R-devel R-lpSolve
 Requires:         R-core R-lpSolve
